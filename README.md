@@ -43,7 +43,7 @@ Make sure you have either `bun` or `Node.js` and `npm` installed.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Challa-Jhansi-26/sheet-sense-ai-dashboards.git
+git clone https://github.com/challapoojaa/sheet-sense-ai-dashboards.git
 cd sheet-sense-ai-dashboards
 ```
 
@@ -103,12 +103,11 @@ Steps:
 ## 🙋‍♀️ Author
 
 
-Hi! I'm **Challa Jhansi**, a passionate software developer with a strong interest in building intuitive and intelligent web applications. I enjoy working with modern front-end stacks, experimenting with AI-driven tools, and solving real-world problems through code.
-This project, SheetGPT, reflects my interest in combining data, automation, and user-friendly interfaces to simplify complex workflows.
+Hi! I'm **Challa Pooja**, a passionate Computer Science student who loves turning ideas into interactive web projects. I enjoy solving real-world problems through clean code, smart design, and continuous learning. Currently exploring the world of software development, data science, and everything in between! This project, SheetGPT, reflects my interest in combining data, automation, and user-friendly interfaces to simplify complex workflows.
 
-- 📧 Email: jhansichalla26@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/challajhansi
-- 💻 GitHub: github.com/Challa-Jhansi-26
+- 📧 Email: poojachalla2002@gmail.com
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/challa-pooja/)
+- 💻 GitHub: github.com/challapoojaa
 
 
 
@@ -117,8 +116,3 @@ This project, SheetGPT, reflects my interest in combining data, automation, and 
 ## 📄 License
 
 This project is released under the MIT License.
-<<<<<<< HEAD
-
-[https://sheet-gpt-ashen.vercel.app]: https://sheet-gpt-ashen.vercel.app
-=======
->>>>>>> 96103f96dc9e54dd0485f419a5e4c7a08a6ddb79
